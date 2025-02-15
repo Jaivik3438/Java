@@ -1,3 +1,4 @@
+package Hashing;
 import java.util.HashSet;
 import java.util.Iterator;
 
@@ -7,7 +8,6 @@ public class Hashing {
         // Creation
         HashSet<Integer> set = new HashSet<>();
 
-       
         // Insertion
         set.add(1);
         set.add(2);
